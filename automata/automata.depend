@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507047845 source:/home/juan0111/Escritorio/automata/main.cpp
+	<iostream>
+	<list>
+
